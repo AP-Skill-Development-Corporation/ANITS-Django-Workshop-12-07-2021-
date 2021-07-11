@@ -16,8 +16,8 @@ Everyone should compulsory follow the below instruction in order to get the atte
     1. [Click here to download Sublime3](https://www.sublimetext.com/3)
 4. Registarion link for Web Development Using Django
     1. [click here to register](http://engineering.apssdc.in/register)
-5. Python Course (Web Development Using Django) Content Link:
-    1. [click here for course content](https://mail.google.com/mail/u/0/#inbox/FMfcgzGkZGqmRJHvCWzchMHbLMslwRpm?projector=1) 
+5. Django Course (Web Development Using Django) Content Link:
+    1. [click here for course content](https://drive.google.com/file/d/1_xHDT1zPHxjP-z-P8HDiJUGdaixQ5Mqi/view?usp=sharing) 
 
 
 ### Reference (GITHUB and RECORDED_VIDEOS) links:
