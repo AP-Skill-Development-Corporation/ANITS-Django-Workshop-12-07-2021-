@@ -23,4 +23,5 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ### Reference (GITHUB and RECORDED_VIDEOS) links:
 [Github link (For daily Jupyter Notebooks)](https://github.com/AP-Skill-Development-Corporation/ANITS-Django-Workshop-12-07-2021-.git)
 
-[Recorded Videos(Daily)](https://drive.google.com/drive/folders/1zQmEZ9qQQTtnCG8fkO82jDpGKQkkQH8T?usp=sharing)
+[Recorded Videos:
+-(Daily)](https://drive.google.com/drive/folders/1zQmEZ9qQQTtnCG8fkO82jDpGKQkkQH8T?usp=sharing)
