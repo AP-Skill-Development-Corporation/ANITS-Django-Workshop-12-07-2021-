@@ -25,6 +25,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 [Recorded Videos:
 -(Daily)](https://drive.google.com/drive/folders/1zQmEZ9qQQTtnCG8fkO82jDpGKQkkQH8T?usp=sharing)
+
 -(Day-4 recorded session link)](https://transcripts.gotomeeting.com/#/s/0f11bf01f228bc58ad19b35d180151082c01017f718a486bf15104e8e56effd9)
 
 
