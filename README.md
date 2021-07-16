@@ -27,4 +27,5 @@ Everyone should compulsory follow the below instruction in order to get the atte
 -(Daily)](https://drive.google.com/drive/folders/1zQmEZ9qQQTtnCG8fkO82jDpGKQkkQH8T?usp=sharing)
 
 [Day 4 recorded session link](https://transcripts.gotomeeting.com/#/s/0f11bf01f228bc58ad19b35d180151082c01017f718a486bf15104e8e56effd9)
+[Day 5 recorded session link](https://transcripts.gotomeeting.com/#/s/f4cb50608b443542916091b78c93fc00ed9b1fcc7af14e76b4affe305cfbdd17)
 
