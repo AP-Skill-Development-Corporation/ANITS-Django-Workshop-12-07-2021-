@@ -1,0 +1,149 @@
+
+GoodAfternoon To All:
+--------------------
+			- Day Objectives:
+			  --------------
+					- Django templates
+					
+						- templates:it contains .html files
+						
+					- template creation:
+					  -----------------
+						- you have to create one template folder in 
+						  your application
+						- in that folder again you have to create one more 
+						   folder anda save that as same your app name
+								
+								- render(p1,p2,p3)
+								- render(request,html file location,{})
+								
+						- css:cascading style sheet
+						
+							types css:
+							---------
+								- inline - here we providing styles in same line
+								- internal- head- style
+								- 
+								- exter-
+								- exter-
+							- for providing styles for html [
+
+								
+					- static file handling
+					
+goodafternoon to all:
+--------------------
+
+			- Day objectives:
+			  ---------------
+					- external css
+						- we have to create separate .css file
+						- we have to load our static folder in html file
+								{% load static %}
+						- after title tag-link tag
+					- static file handling
+							- it contains .css files,.js files,images
+							- static folder creation
+							- myApp->newfolder->static->css
+													  -> js
+													  ->images
+					- bootstrap:
+							- online bootstrap
+								- we have to copy css links and js link
+								- after title
+								- here we are using bootstrap classses for providing styles for html page
+								
+								
+							- offline bootstrap
+									- static files
+									- css->bootstrap.min.css
+									-js->bootstrap.min.js
+									- load static folder
+									
+						- django Admin
+						  -------------
+								-operational error-python manage.py migrate
+								- username,password
+						superuseraccount:
+						----------------
+								- python manage.py createsuperuser
+									username:
+									email:
+									psw:
+									cpsw:
+									
+						task:
+						-----
+							- name
+							- email
+							-  mobile
+							- psw
+							- cpsw
+							- radion buttons
+							- dropdown
+							- check boxes
+							- file upload
+							
+					- model creation:
+							- db
+							- models- we can store our db
+							- by using classes we can create our db
+							- two operations:
+								- python manage.py makemigrations
+									- generate one interfile 
+								- python manage.py migrate
+									- it converts that file into table
+					CRUD Operations:
+					---------------
+					create,retrieve,update,delete
+						-ORM quries using CRUD(object relational mapping)
+
+							- python shell 
+							- python manage.py shell
+							- from myApp.models import Student
+							
+						create db:
+						-----------
+							- obj=modelname(name=value,name1=value1......)
+							  obj.save()
+							  
+							- modelname.objects.create(name='value',name='value2'.......)
+							  student.objects.create(n=v......)
+						retrieve db:
+						------------
+							- if you want to retrieve entire db
+								ob=modelname.objects.all()
+								
+							- if you want to access specific record in db
+									- get(id=)- unique data
+									- classname.objects.get(id=n)
+							- if you want to acess multiple records
+
+									 - filter()- it allows duplicates 
+									 - classname.objects.filter(name=value)
+						
+						
+						
+						
+						
+						- Html pages
+						
+							- create db
+									- urls->views->templates
+									- templtes->views
+									-templates=action,csrf token
+									- views=method==="POST"
+						- forms
+						
+	
+	
+	GoodAfternoon tO all:
+	---------------------
+			- Day Objectives:
+			  ---------------
+				- CRUD Operations:
+						- Display(using html)
+						
+						- Update
+								(ORM,html)
+						- Delete 
