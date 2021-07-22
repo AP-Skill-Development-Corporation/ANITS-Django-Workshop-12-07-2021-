@@ -9,7 +9,7 @@
         'PORT':''",
     }
 }
-3)pip install mysql-client/pip install mysqlclient
+3)pip install mysql-client (or) pip install mysqlclient
 4)mysql admin-->phpmyadmin
 5)databasecreation
 6)in settings.py -->add database name
