@@ -1,0 +1,20 @@
+1)xampp installation
+2)DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'your databasename',
+        'USER':'root',
+        'PASSWORD':''",
+        'HOST':''",
+        'PORT':''",
+    }
+}
+3)pip install mysql-client/pip install mysqlclient
+4)mysql admin-->phpmyadmin
+5)databasecreation
+6)in settings.py -->add database name
+6)manage.py migrate
+
+
+
+
