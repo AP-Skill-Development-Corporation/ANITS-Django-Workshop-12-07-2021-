@@ -38,6 +38,8 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 [Day 9 recorded session link](https://transcripts.gotomeeting.com/#/s/564508dd09c555bdefce646e4e865cbc4eabebb33f7568229dfa29af9ef1aa78)
 
+[Day 10 recorded session link](https://transcripts.gotomeeting.com/#/s/fea7b53409f182a94672e268391e84e61ec89c55dd6771ac9e38727452fe1ad7)
+
 
 
 
