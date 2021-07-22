@@ -1,0 +1,25 @@
+{% extends 'anitsapp/base.html' %}
+{% block title %}Home{% endblock title %}
+
+{% block content %}
+
+<h1 style="color:red">Welcome to {{Name}}</h1>
+
+<table border=3>
+	<tr>
+		<th>Name</th>
+		<th>Company:</th>
+		<th>Place:</th>
+		<th>MobileNo:</th>
+		<th>Emailid:</th>
+	</tr>
+	<tr>
+		<td>{{details.name}}</td>
+		<td>{{details.company}}</td>
+		<td>{{details.place}}</td>
+		<td>{{details.mobileno}}</td>
+		<td>{{details.emailid}}</td>
+	</tr>
+	
+</table>
+{% endblock content %}

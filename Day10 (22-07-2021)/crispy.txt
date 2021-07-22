@@ -1,0 +1,14 @@
+1)pip install django-crispy-forms
+2)settings.py:
+INSTALLED_APPS = [
+    ...
+
+    'crispy_forms',
+]
+
+CRISPY_TEMPLATE_PACK = 'bootstrap4'
+3)register.html:
+{% load crispy_forms_tags %}
+{% csrf_token %}
+<!-- {{form.as_p}} -->
+{{ form|crispy }}
