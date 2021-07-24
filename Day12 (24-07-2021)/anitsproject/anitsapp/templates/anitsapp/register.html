@@ -1,0 +1,25 @@
+{% extends 'anitsapp/base.html' %}
+{% block title %}Home{% endblock title %}
+{% load crispy_forms_tags %}
+{% block content %}
+<form method="POST" action="#">
+	<div class='container'>
+		<div class='row justify-content-center'>
+			<div class='col-sm-6'>
+				<div class="card">
+					<div class="card-header bg-info">
+						<h2 align="center">Register Form</h2>
+					</div>
+					<div class='card-body'>
+						{% csrf_token %}
+						<!-- {{form.as_p}} -->
+						{{ form|crispy }}
+					</div>
+					<div class="card-footer">
+						<input type="submit" class="btn btn-info" value="Signup">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+{% endblock content %}

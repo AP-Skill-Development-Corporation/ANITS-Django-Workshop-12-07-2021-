@@ -1,0 +1,13 @@
+{% extends 'anitsapp/base.html' %}
+{% block title %}Home{% endblock title %}
+{% block content %}
+<div class="container">
+	<div class="jumbotron col-md-8 mx-auto mt-4">
+		<h2 align="center" class="p-3 mb-2 bg-info text-white">Dashboard</h2>
+		<div class="panel-about">
+			<h3 align="center">Welcome {{user.username}}</h3>
+		</div>
+	</div>
+	
+</div>
+{% endblock %}

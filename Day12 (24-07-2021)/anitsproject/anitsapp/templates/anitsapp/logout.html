@@ -1,0 +1,25 @@
+{% extends 'anitsapp/base.html' %}
+{% block title %}Home{% endblock title %}
+{% block content %}
+<div class="container">
+		<div class='row justify-content-center'>
+			<div class='col-sm-6'>
+				<div class="card">
+					<div class="card-header bg-info">
+						<h2 align="center">Logout Form</h2>
+					</div>
+					<div class='card-body'>
+						<div class="alert alert-success">
+							<h3>you have been logged out....!</h3>
+						</div>
+						
+					</div>
+					<div class="card-footer">
+						<a href="{% url 'login' %}">Click here to login again</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+{% endblock content %}
