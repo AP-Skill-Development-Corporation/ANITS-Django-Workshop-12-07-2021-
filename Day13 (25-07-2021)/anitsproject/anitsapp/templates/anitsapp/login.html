@@ -1,0 +1,35 @@
+{% extends 'anitsapp/base.html' %}
+{% block title %}Home{% endblock title %}
+{% block content %}
+<form method="POST" action="#">
+	<div class='container'>
+		{% if messages %}
+			{% for msg in messages %}
+				<div class="alert alert-{{msg.tags}} alert-dismissible">
+					<button type="button" class="close" data-dismiss="alert">&times;</button>
+					{{msg}}
+				</div>
+			{% endfor %}
+		{% endif %}
+		<div class='row justify-content-center'>
+			<div class='col-sm-6'>
+				<div class="card">
+					<div class="card-header bg-info">
+						<h2 align="center">Login Form</h2>
+					</div>
+					<div class='card-body'>
+						{% csrf_token %}
+						<div class='form-group mx-3'>
+							<input type="text" name="username" placeholder="Enter Username" class="form-control my-2">
+							<input type="password" name="password" placeholder="Enter your password" class="form-control my-2">
+						</div>
+						
+					</div>
+					<div class="card-footer">
+						<input type="submit" class="btn btn-info" value="Login">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+{% endblock content %}
