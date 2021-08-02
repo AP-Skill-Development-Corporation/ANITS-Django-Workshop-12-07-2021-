@@ -42,7 +42,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 [Day 11 recorded session link](https://drive.google.com/file/d/1yKG0Cb5cAuowhigzZlliyIJgL1LeXJuZ/view?usp=sharing)
 
-[Day 12 recorded session link](https://drive.google.com/file/d/1yKG0Cb5cAuowhigzZlliyIJgL1LeXJuZ/view?usp=sharing)
+[Day 12 recorded session link](https://drive.google.com/file/d/1fFRNU920rLp8lcUQuTPar-CaCIdv2wJi/view?usp=sharing)
 
 [Day 13 recorded session link](https://drive.google.com/file/d/1fFRNU920rLp8lcUQuTPar-CaCIdv2wJi/view?usp=sharing)
 
