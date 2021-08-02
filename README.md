@@ -36,11 +36,17 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 [Day 8 recorded session link](https://transcripts.gotomeeting.com/#/s/54ade6357dd18202b9f461ec81df1f4a6db7aa997b3e82d322d57a28f8dd9e05)
 
-[Day 9 recorded session link](https://transcripts.gotomeeting.com/#/s/564508dd09c555bdefce646e4e865cbc4eabebb33f7568229dfa29af9ef1aa78)
+[Day 9 recorded session link](https://drive.google.com/file/d/1zn8rYnppGKySZMdPWTXdXZUAnxSratFK/view?usp=sharing)
 
-[Day 10 recorded session link](https://transcripts.gotomeeting.com/#/s/fea7b53409f182a94672e268391e84e61ec89c55dd6771ac9e38727452fe1ad7)
+[Day 10 recorded session link](https://drive.google.com/file/d/1fZSHFePVEI7zs-E-iTn5x-GY6B3y1JOk/view?usp=sharing)
 
-[Day 11 recorded session link](https://transcripts.gotomeeting.com/#/s/9ab7ab501cf7550f0c6be4aca3fa51aad7d77c0ee8f2d61e6001aebd8cf45824)
+[Day 11 recorded session link](https://drive.google.com/file/d/1yKG0Cb5cAuowhigzZlliyIJgL1LeXJuZ/view?usp=sharing)
+
+[Day 12 recorded session link](https://drive.google.com/file/d/1yKG0Cb5cAuowhigzZlliyIJgL1LeXJuZ/view?usp=sharing)
+
+[Day 13 recorded session link](https://drive.google.com/file/d/1fFRNU920rLp8lcUQuTPar-CaCIdv2wJi/view?usp=sharing)
+
+
 
 
 
